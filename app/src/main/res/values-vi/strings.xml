@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gif Maker</string>
+    <string name="gif_maker">GIF Maker</string>
+    <string name="make_gif_from_images">Tạo ảnh GIF từ hình ảnh</string>
+    <string name="create_gif">Tạo GIF</string>
+    <string name="my_gif">Thư viện GIF</string>
+    <string name="rate">Làm ơn đánh giá 5* để ủng hộ nhà phát triền!</string>
+    <string name="notnow">Không phải bây giờ!</string>
+    <string name="ratenow">Rate now!</string>
+    <string name="clear">Xóa</string>
+    <string name="selected_0_images">Chọn hình ảnh</string>
+    <string name="selected">Đã chọn</string>
+    <string name="image">ảnh</string>
+    <string name="pick_image">Lựa chọn ảnh</string>
+    <string name="did_not_selected_image">Bạn chưa chọn ảnh nào!</string>
+    <string name="cancel">Hủy</string>
+    <string name="select_an_item">Chọn một mục</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="do_you_really_want_to_delete">Bạn có thực sự muốn xóa?</string>
+    <string name="no">Không</string>
+    <string name="yes">Đồng ý</string>
+    <string name="change_speed">Thay đổi tốc độ</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Gif Maker</string>
+    <string name="gif_maker">GIF Maker</string>
+    <string name="make_gif_from_images">Make GIF from Images</string>
+    <string name="create_gif">Create GIF</string>
+    <string name="my_gif">My GIF</string>
+    <string name="rate">Please rate 5 stars for us!</string>
+    <string name="notnow">Not now!</string>
+    <string name="ratenow">Rate now!</string>
+    <string name="clear">Clear</string>
+    <string name="selected_0_images">Select images</string>
+    <string name="selected">Selected</string>
+    <string name="image">images</string>
+    <string name="pick_image">Choice Image</string>
+    <string name="did_not_selected_image">You didn\'t selected image!</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_an_item">Select an item</string>
+    <string name="select_all">Select all</string>
+    <string name="warning">Warning</string>
+    <string name="do_you_really_want_to_delete">Do you really want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="change_speed">change speed</string>
+</resources>

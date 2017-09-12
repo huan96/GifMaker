@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_title"
+    android:layout_width="match_parent"
+    android:layout_height="56dp"
+    android:background="#a24bfc">
+
+    <ImageView
+        android:id="@+id/btn_back"
+        android:layout_width="56dp"
+        android:layout_height="match_parent"
+        android:padding="13dp"
+        android:src="@drawable/ic_back" />
+
+    <com.gif.image.photo.gifmaker.utils.CustomTextView
+        android:id="@+id/tv_title_app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@+id/btn_save"
+        android:layout_toRightOf="@+id/btn_back"
+        android:gravity="center"
+        android:text="@string/my_gif"
+        android:textColor="#fff"
+        android:textSize="24dp" />
+
+    <ImageView
+        android:id="@+id/btn_save"
+        android:layout_width="56dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:padding="13dp"
+        android:src="@drawable/ic_save"
+        android:visibility="invisible" />
+</RelativeLayout>
